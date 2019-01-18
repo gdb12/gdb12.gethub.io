@@ -1,8 +1,5 @@
 ---
-title: "publications"
-author: "Greg Burris"
-date: "January 18, 2019"
-output: html_document
+title: "Publications"
 ---
 
 ##Journal Articles

@@ -1,7 +1,4 @@
 ---
 title: "CV"
-author: "Greg Burris"
-date: "January 18, 2019"
-output: html_document
 ---
 
