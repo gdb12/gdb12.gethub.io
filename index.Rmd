@@ -1,5 +1,7 @@
 ---
-title: "My Website"
+title: "Gregory B"
 ---
 
-Hello, Website!
+I am a PhD candidate in the Geography Department at Florida State University. My interests are in interdisciplinary approaches. I combine methods from across the sciences and humanities to extract scientific data from historical documents. My current project is "The Historical Climatology of the Southeastern United States." I lead a ten person research team that is extracting environmental data from handwritten documents from the eighteenth and nineteenth century. 
+
+I have a range of experiences that contribute to my work. I served for four years as a geospatial imagery analyst in the US Army. I also received a master’s degrees in history and [GIScience](http://geography.fsu.edu/programs/graduate/masters-in-gis/). I have participated in FSU’s [Undergraduate Research Opportunity Program](https://cre.fsu.edu/programs/urop) for the past two years. This has given me the chance to mentor young students and work together on my research. 

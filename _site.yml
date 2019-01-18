@@ -1,8 +1,25 @@
 name: "my-website"
 navbar:
-  title: "My Website"
+  title: "Gregory Burris"
   left:
     - text: "Home"
       href: index.html
+    - text: "Publications"
+      href: publications.html
+    - text: "CV"
+      href: cv.html
+    - text: "Projects"
+      href: projects.html
+    - text: "Research Team"
+      href: researchteam.html
     - text: "About"
       href: about.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: fa-github fa-lg
+      href: https://github.com/gdb12
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/tupsarrugreg
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/gregory-burris/
