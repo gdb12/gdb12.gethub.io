@@ -4,5 +4,8 @@ title: "Publications"
 
 ##Journal Articles
 
+###2019
+In Review: Extracting Weather Information from a Plantation Document, Climate of the Past (Expected January 2019)
+
 ###2018
 Burris, G., Elsner, J. B., and Doel, R. E.: *Plantation Records as a Source of Historical Weather and Agricultural Data*, Southeastern Geographer, 58, 348–364, 2018.

@@ -1,4 +1,110 @@
 ---
 title: "CV"
+params:
+   address: Department of Geography Bellamy Building, Room 323 113 Collegiate Loop PO Box 3062190 Tallahassee FL 32306
+   email: gdb12@my.fsu.edu
+   telephone: "(701) 6302117"
+   website: gdb12.github.io
+   
 ---
 
+ <!--html_preserve-->
+<style type="text/css">
+ul.CV {
+list-style-type: none;
+}
+</style>
+<!--/html_preserve-->
+
+```{r echo=FALSE,warning=FALSE,message=FALSE}
+library(RefManageR)
+```
+
+<ul class="CV">
+<li><i class="fa fa-home" aria-hidden="true"></i>  `r paste(" ",params$address)`</li>
+<li><i class="fa fa-envelope-o" aria-hidden="true"></i>  `r paste(" ",params$email)`</li>
+<li><i class="fa fa-mobile" aria-hidden="true"></i>  `r paste(" ",params$telephone)`</li>
+<li><i class="fa fa-globe" aria-hidden="true"></i>  [`r paste(" ",params$website)`](`r params$website`)</li>
+<li><i class="fa fa-clock-o" aria-hidden="true"></i> Last Updated: `r paste(" ",format(Sys.Date(), "%B %d, %Y"))`</li>
+</ul>
+
+
+*************
+
+# Education
+
+* 2020
+    + PhD in Geography (Expected May 2020) - Florida State University
+* 2015
+    + MA in History - Florida State University
+* 2015
+    + MS in GIS - Florida State University
+
+*************
+
+# Research Interests
+
+I am a PhD candidate in the Geography Department at Florida State University. My interests are in interdisciplinary approaches. I combine methods from across the sciences and humanities to extract scientific data from historical documents. My current project is “The Historical Climatology of the Southeastern United States.” I lead a ten person research team that is extracting environmental data from handwritten documents from the eighteenth and nineteenth century.
+
+*************
+
+# Publications
+
+* 2019
+    + In Review: Extracting Weather Information from a Plantation Document, Climate of the Past (Expected January 2019)
+* 2018
+    + Burris, G., Elsner, J. B., and Doel, R. E.: *Plantation Records as a Source of Historical Weather and Agricultural Data*, Southeastern Geographer, 58, 348–364, 2018.
+
+*************
+
+#Grants and Awards
+
+*Robert B. Bradley Library Research Grant ($7,866)
+
+*Alternative Textbook Grant ($1,000)
+
+* Undergraduate Research Opportunity Program 2017-18 (Three research assistants for one year)
+
+* Undergraduate Research Opportunity Program 2018-19 (Nine research assistants for one year)
+
+* Undergraduate Research Opportunity Program Materials Grant ($250)
+
+* FSU Graduate School 2017-2018 Dissertation Research Grant ($1,000)
+
+*************
+
+#Conferences Papers Presented
+
+* Plantation Book to Database: Reconstructing the Environment and Climate of the Civil War from the Shirley Plantation Papers, Society for Military History Conference, 2018
+
+* Extracting quantitative data from historical records, South East Division of the Association of American Geographers Regional Conference, 2018
+
+* Historical Temperature Reconstruction Using Phenological Observations,  American Association of Geographers’ Annual Meeting, 2017
+
+* Historical Data Wrangling: Southern Farms Study, 1860,  American Association of Geographers’ Annual Meeting, 2016
+
+* Land Use and Slave Labor in the U.S. South, 1859, South East Division of the Association of American Geographers Regional Conference, 2016
+
+* Morality, Slavery, and Efficiency: Divorcing Abolitionist thought from Classical Liberal Economic Assumptions, Antislavery Usable Past Postgraduate Research Network International Confrence, October 2015
+
+* Components of Slavery, Graduate Student Conference, UGA 2015
+
+* The Firebombing of Dresden, Southern British Historical Association 2013
+
+* Minister Takes Rook, Northern Great Plains conference 2012
+
+*************
+
+#Courses Taught
+
+* Human Geography
+
+* Physical Geography
+
+* Environmental Science
+
+* Map Analysis
+
+* Biogeography
+
+*************
