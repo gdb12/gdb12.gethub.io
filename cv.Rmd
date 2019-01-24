@@ -3,7 +3,7 @@ title: "CV"
 params:
    address: Department of Geography Bellamy Building, Room 323 113 Collegiate Loop PO Box 3062190 Tallahassee FL 32306
    email: gdb12@my.fsu.edu
-   telephone: "(850) 644-1706"
+   telephone: "(850) 644-1706" 
    website: gdb12.github.io
    
 ---
@@ -38,7 +38,7 @@ library(RefManageR)
 * 2015
     + MA in History - Florida State University
 * 2015
-    + MS in GIS - Florida State University
+    + MS in GISience - Florida State University
 
 *************
 
